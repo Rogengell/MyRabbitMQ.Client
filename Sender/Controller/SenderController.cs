@@ -13,27 +13,26 @@ namespace Sender.Controller
     [Route("[controller]")]
     public class SenderController : ControllerBase
     {
-        private readonly MessageClient _messageClient;
+        private readonly RabbitMqClient _rabbitMqClient;
 
-        public SenderController(MessageClient messageClient)
+        public SenderController(RabbitMqClient rabbitMqClient)
         {
-            _messageClient = messageClient;
-        }
-    
-        [HttpPost]
-        public async Task<bool> Post()
-        {
-            var CorrelationIdGenerated = Guid.NewGuid().ToString();
-            var message = new PongMessage{ Message = "Pong!", CorrelationId = CorrelationIdGenerated };
-
-            var response = _messageClient.Responce(CorrelationIdGenerated);
-            var Request = _messageClient.Send<PongMessage>(message, "Order");
-
-
-            await Task.WhenAll(response, Request);
-
-            return response.Result;
+            _rabbitMqClient = rabbitMqClient;
         }
 
+        [HttpPost("send")]
+        public async Task<IActionResult> SendMessage([FromBody] MessageRequest request)
+        {
+            var result = await _rabbitMqClient.SendAndReceiveAsync(request.Message, request.RoutingKey);
+
+            if (result)
+            {
+                return Ok("Message processed successfully.");
+            }
+            else
+            {
+                return StatusCode(504, "Timeout waiting for response.");
+            }
+        }
     }
 }

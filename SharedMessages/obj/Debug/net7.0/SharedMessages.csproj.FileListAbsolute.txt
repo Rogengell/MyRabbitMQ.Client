@@ -9,3 +9,4 @@ F:\Code for Class\MyRabbitMQ\SharedMessages\obj\Debug\net7.0\SharedMessages.dll
 F:\Code for Class\MyRabbitMQ\SharedMessages\obj\Debug\net7.0\refint\SharedMessages.dll
 F:\Code for Class\MyRabbitMQ\SharedMessages\obj\Debug\net7.0\SharedMessages.pdb
 F:\Code for Class\MyRabbitMQ\SharedMessages\obj\Debug\net7.0\ref\SharedMessages.dll
+F:\Code for Class\MyRabbitMQ\SharedMessages\obj\Debug\net7.0\SharedMessages.sourcelink.json

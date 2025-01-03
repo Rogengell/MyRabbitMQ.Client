@@ -5,7 +5,6 @@ F:\Code for Class\MyRabbitMQ\Sender\bin\Debug\net8.0\Sender.deps.json
 F:\Code for Class\MyRabbitMQ\Sender\bin\Debug\net8.0\Sender.runtimeconfig.json
 F:\Code for Class\MyRabbitMQ\Sender\bin\Debug\net8.0\Sender.dll
 F:\Code for Class\MyRabbitMQ\Sender\bin\Debug\net8.0\Sender.pdb
-F:\Code for Class\MyRabbitMQ\Sender\bin\Debug\net8.0\EasyNetQ.dll
 F:\Code for Class\MyRabbitMQ\Sender\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
 F:\Code for Class\MyRabbitMQ\Sender\bin\Debug\net8.0\Microsoft.OpenApi.dll
 F:\Code for Class\MyRabbitMQ\Sender\bin\Debug\net8.0\RabbitMQ.Client.dll
@@ -35,3 +34,5 @@ F:\Code for Class\MyRabbitMQ\Sender\obj\Debug\net8.0\refint\Sender.dll
 F:\Code for Class\MyRabbitMQ\Sender\obj\Debug\net8.0\Sender.pdb
 F:\Code for Class\MyRabbitMQ\Sender\obj\Debug\net8.0\Sender.genruntimeconfig.cache
 F:\Code for Class\MyRabbitMQ\Sender\obj\Debug\net8.0\ref\Sender.dll
+F:\Code for Class\MyRabbitMQ\Sender\obj\Debug\net8.0\Sender.sourcelink.json
+F:\Code for Class\MyRabbitMQ\Sender\bin\Debug\net8.0\Newtonsoft.Json.dll

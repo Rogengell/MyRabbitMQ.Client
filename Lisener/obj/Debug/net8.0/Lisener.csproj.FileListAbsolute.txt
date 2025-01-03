@@ -5,7 +5,6 @@ F:\Code for Class\MyRabbitMQ\Lisener\bin\Debug\net8.0\Lisener.deps.json
 F:\Code for Class\MyRabbitMQ\Lisener\bin\Debug\net8.0\Lisener.runtimeconfig.json
 F:\Code for Class\MyRabbitMQ\Lisener\bin\Debug\net8.0\Lisener.dll
 F:\Code for Class\MyRabbitMQ\Lisener\bin\Debug\net8.0\Lisener.pdb
-F:\Code for Class\MyRabbitMQ\Lisener\bin\Debug\net8.0\EasyNetQ.dll
 F:\Code for Class\MyRabbitMQ\Lisener\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
 F:\Code for Class\MyRabbitMQ\Lisener\bin\Debug\net8.0\Microsoft.OpenApi.dll
 F:\Code for Class\MyRabbitMQ\Lisener\bin\Debug\net8.0\RabbitMQ.Client.dll
@@ -35,3 +34,5 @@ F:\Code for Class\MyRabbitMQ\Lisener\obj\Debug\net8.0\refint\Lisener.dll
 F:\Code for Class\MyRabbitMQ\Lisener\obj\Debug\net8.0\Lisener.pdb
 F:\Code for Class\MyRabbitMQ\Lisener\obj\Debug\net8.0\Lisener.genruntimeconfig.cache
 F:\Code for Class\MyRabbitMQ\Lisener\obj\Debug\net8.0\ref\Lisener.dll
+F:\Code for Class\MyRabbitMQ\Lisener\obj\Debug\net8.0\Lisener.sourcelink.json
+F:\Code for Class\MyRabbitMQ\Lisener\bin\Debug\net8.0\Newtonsoft.Json.dll
