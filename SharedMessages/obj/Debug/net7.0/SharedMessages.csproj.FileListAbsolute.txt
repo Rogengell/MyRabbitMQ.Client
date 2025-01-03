@@ -1,0 +1,11 @@
+F:\Code for Class\MyRabbitMQ\SharedMessages\bin\Debug\net7.0\SharedMessages.deps.json
+F:\Code for Class\MyRabbitMQ\SharedMessages\bin\Debug\net7.0\SharedMessages.dll
+F:\Code for Class\MyRabbitMQ\SharedMessages\bin\Debug\net7.0\SharedMessages.pdb
+F:\Code for Class\MyRabbitMQ\SharedMessages\obj\Debug\net7.0\SharedMessages.GeneratedMSBuildEditorConfig.editorconfig
+F:\Code for Class\MyRabbitMQ\SharedMessages\obj\Debug\net7.0\SharedMessages.AssemblyInfoInputs.cache
+F:\Code for Class\MyRabbitMQ\SharedMessages\obj\Debug\net7.0\SharedMessages.AssemblyInfo.cs
+F:\Code for Class\MyRabbitMQ\SharedMessages\obj\Debug\net7.0\SharedMessages.csproj.CoreCompileInputs.cache
+F:\Code for Class\MyRabbitMQ\SharedMessages\obj\Debug\net7.0\SharedMessages.dll
+F:\Code for Class\MyRabbitMQ\SharedMessages\obj\Debug\net7.0\refint\SharedMessages.dll
+F:\Code for Class\MyRabbitMQ\SharedMessages\obj\Debug\net7.0\SharedMessages.pdb
+F:\Code for Class\MyRabbitMQ\SharedMessages\obj\Debug\net7.0\ref\SharedMessages.dll
