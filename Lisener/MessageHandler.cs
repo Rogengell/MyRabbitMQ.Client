@@ -81,6 +81,5 @@ public class MessageHandler : BackgroundService
         _channel?.Dispose();
         _connection?.Dispose();
         base.Dispose();
-        
     }
 }
