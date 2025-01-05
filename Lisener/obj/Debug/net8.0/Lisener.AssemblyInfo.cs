@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lisener")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d6e897a1c1a0ba80c61e34433cda3ed0d599809")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+94c32d59d18c9c1980e8e470c1600c9a8e48a30b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lisener")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lisener")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
